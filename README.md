@@ -9,7 +9,7 @@ In this project, I built a logistic regression model that uses a person's height
 
 This is a graph of our data to predict a person's gender.
 
-##2. These are the params and accuracy on the training and test data to predict geneder based upon the variables:
+## 2. These are the params and accuracy on the training and test data to predict geneder based upon the variables:
 
 BEST PARAMS {'C': 0.01}
 
