@@ -4,7 +4,8 @@
 
 In this project, I built a logistic regression model that uses a person's height & weight to predict their gender with 92% accuracy.
 
-##1. ![image](https://user-images.githubusercontent.com/86930309/220212123-c53a6e19-f0c7-4ca2-9884-2db462c4d2d6.png)
+## 1.
+![image](https://user-images.githubusercontent.com/86930309/220212123-c53a6e19-f0c7-4ca2-9884-2db462c4d2d6.png)
 
 This is a graph of our data to predict a person's gender.
 
@@ -22,7 +23,7 @@ Accuracy on test data:     0.92
 In the figure here showing the results of the logistic regression, we plot the actual labels of both the training(circles) and test(squares) samples. The 0's (females) are plotted in red, the 1's (males) in blue. We also show the classification boundary, a line (to the resolution of a grid square). Every sample on the red background side of the line will be classified female, and every sample on the blue side, male. Notice that most of the samples are classified well, but there are misclassified people on both sides, as evidenced by leakage of dots or squares of one color ontothe side of the other color. Both test and traing accuracy are about 92%.
 
 
-##4.
+## 4.
 Logistic regression is what is known as a discriminative classifier as we learn a soft boundary between/among classes. Another paradigm is the generative classifier where we learn the distribution of each class.
 
 Let us plot the probabilities obtained from predict_proba, overlayed on the samples with their true labels:
