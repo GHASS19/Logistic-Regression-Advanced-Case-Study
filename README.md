@@ -4,8 +4,7 @@
 
 In this project, I built a logistic regression model that uses a person's height & weight to predict their gender with 92% accuracy.
 
-##1.
-![image](https://user-images.githubusercontent.com/86930309/220212123-c53a6e19-f0c7-4ca2-9884-2db462c4d2d6.png)
+##1. ![image](https://user-images.githubusercontent.com/86930309/220212123-c53a6e19-f0c7-4ca2-9884-2db462c4d2d6.png)
 
 This is a graph of our data to predict a person's gender.
 
